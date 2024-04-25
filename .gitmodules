@@ -1,0 +1,3 @@
+[submodule "yaml_checker"]
+	path = yaml_checker
+	url = https://github.com/Ranasinghe843/yaml_checker.git
