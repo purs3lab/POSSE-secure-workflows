@@ -6,3 +6,6 @@
 	path = yaml_checker
 	url = https://github.com/Ranasinghe843/yaml_checker.git
 	branch = main
+[submodule "workflows-security"]
+	path = workflows-security
+	url = https://github.com/rrk0804/workflows-security.git
